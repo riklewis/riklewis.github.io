@@ -14,3 +14,10 @@ If you want a uniquely designed and beautifully handcrafted website, or a featur
 * [LinkedIn](https://www.linkedin.com/in/riklewis)
 * [StackOverflow](https://stackoverflow.com/users/4593106/rik-lewis)
 * [Github](https://github.com/riklewis)
+
+
+#  
+[![JS.ORG Logo][2]][1]
+
+  [1]: https://js.org
+  [2]: https://logo.js.org/dark_tiny.png
