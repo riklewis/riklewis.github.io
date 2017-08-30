@@ -1,6 +1,6 @@
 # Rik Lewis
 
-## Certfied Geek. Specialising in Uniface, PHP, javascript/jQuery and progressive web apps.
+## Certified Geek. Specialising in Uniface, PHP, javascript/jQuery and progressive web apps.
 
 Hi, I'm Rik Lewis, and I've been a professional web developer since 2005, working for more than 10 years on rich internet web applications, with primary focus on both security and accessibility. In that time I've dabbled in many languages and frameworks, but mostly I've worked with Uniface and PHP on the server side and javascript/jQuery on the front end.
 
